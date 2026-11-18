@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**akkoyunayhan/akkoyunayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ayhan Akkoyun 👋
 
-Here are some ideas to get you started:
+**Computer Engineering Student | AI & Cybersecurity**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student from Türkiye, currently studying in Poland through the Erasmus program.
+
+I'm interested in artificial intelligence, cybersecurity, and software engineering.
+
+---
+
+### Areas of Interest
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-30363D?style=flat)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-30363D?style=flat)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-30363D?style=flat)
+
+### Education
+
+**Munzur University** — Computer Engineering
+
+**Rzeszów University of Technology** — Erasmus Student
+
+---
+
+### Projects
+
+I'll showcase my software and AI projects here.
